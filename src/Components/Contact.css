@@ -1,0 +1,14 @@
+.contact-content {
+  margin-top: 30px;
+  background-image: url("../Assets/banner1.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+
+.contact-form {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}

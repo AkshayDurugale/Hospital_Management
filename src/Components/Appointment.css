@@ -1,0 +1,50 @@
+.ap-content {
+  margin-top: 30px;
+}
+
+.Appointment-container {
+  background-image: url(../Assets/banner3.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+
+.form-container {
+  font-weight: bold;
+  margin: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  width: 750px;
+  box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: rgb(198, 99, 99);
+  border-radius: 20px;
+}
+.form-col {
+  display: flex;
+  width: 100%;
+  text-align: left;
+}
+
+.c1 {
+  padding: 20px;
+  width: 50%;
+}
+
+.c2 {
+  width: 50%;
+  padding: 20px;
+}
+
+label[for="male"],
+label[for="female"] {
+  margin-top: 10px;
+}
+
+input[type="radio"] {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.btn1 {
+  padding: 10px;
+}

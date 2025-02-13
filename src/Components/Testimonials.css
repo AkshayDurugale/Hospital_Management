@@ -1,0 +1,19 @@
+.test-content {
+  margin-top: 20px;
+}
+.test-cards {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.tc-1,
+.tc-2,
+.tc-3,
+.tc-4 {
+  box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.19);
+  width: 300px;
+  height: 250px;
+  padding: 10px;
+  overflow: hidden;
+  line-height: 25px;
+}
